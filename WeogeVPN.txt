@@ -1,6 +1,6 @@
 #profile-update-interval: 1
 #profile-title: WeogeVPN
-#announce: WeogeVPN - бесплатный ключ в свободный интернет🔑💜. [🕊️] - обход белых списков. [🚀] - стандартный VPN
+#announce: WeogeVPN - бесплатный ключ в свободный интернет🔑💜. [🕊️] - обход белых списков. [🚀] - стандартный VPN. Может быть высокий пинг, не обращайте на это внимание.
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn6.cloud-vk.com:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=st.ozone.ru&fp=chrome&security=reality&pbk=7zsja5u9_tXdfEDIHNPdhIwyoawk7WUFLcthOwFt10k&sid=99dc6b6bae41a1#%5B%F0%9F%95%8A%EF%B8%8F%5D%20%F0%9F%87%B5%F0%9F%87%B1%20%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn4.cloud-vk.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=xapi.ozon.ru&fp=chrome&security=reality&pbk=FmCNU-XuNo9Z5RUPzjr9raJtDLdl2rTOJa2AoQgBulI&sid=8809#%5B%F0%9F%95%8A%EF%B8%8F%5D%20%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 vless://4c9b944f-6637-4cc2-a71c-5213806084ae@cdn1.cloud-vk.com:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=ads.x5.ru&fp=chrome&security=reality&pbk=xWzgONkcvgsumadOsA6hLB9_RhULeXZ9CD8hDLraJ2s&sid=28ba508b16b23a#%5B%F0%9F%95%8A%EF%B8%8F%5D%20%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
