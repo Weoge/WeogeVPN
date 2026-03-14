@@ -1,8 +1,10 @@
 ## WeogeVPN - абсолютно бесплатный ключ в свободный интернет!🔑💜
 
 # Подключится
-| Клиент | Ссылка для копирования |
-|--------|----------------------|
-| Happ | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
-| V2RayTun | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
-| V2Box | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
+# Установка подписки
+
+| Клиент | Способ | Ссылка | Описание |
+|--------|--------|--------|----------|
+| **Happ** | ⚡ Быстрая установка | [Добавить подписку](https://routing.help/redirect?url=happ://import?url=https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt) | Открыть на устройстве с Happ |
+| **V2RayTun** | ⚡ Быстрая установка | [Добавить подписку](https://routing.help/redirect?url=v2raytun://import/https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt) | Открыть на устройстве с V2RayTun |
+| **V2Box** | ⚡ Быстрая установка | [Добавить подписку](https://routing.help/redirect?url=v2box://import/https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt) | Открыть на устройстве с V2Box |
