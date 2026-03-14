@@ -6,4 +6,4 @@
 |--------|--------|--------|----------|
 | **Happ** | ⚡ Быстрая установка | [Добавить подписку](https://clc.li/bYaxZ) | Нажмите для добавления |
 | **V2RayTun** | ⚡ Быстрая установка | [Добавить подписку](https://clc.li/hNaBY) | Нажмите для добавления |
-| **V2Box** | ⚡ Быстрая установка | [Добавить подписку](https://www.deep-link.xyz/redirect?url=v2box://import/https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt) | Нажмите для добавления |
+| **V2Box** | ⚡ Быстрая установка | [Добавить подписку](https://clc.li/DQNlu) | Нажмите для добавления |
