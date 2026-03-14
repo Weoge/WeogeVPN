@@ -2,8 +2,8 @@
 
 # Установка для приложений
 
-| Клиент | Ссылка | Добавить |
-|--------|--------|----------|
-| **Happ** | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` | [Добавить подписку](https://clc.li/bYaxZ)  |
-| **V2RayTun** | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` | [Добавить подписку](https://clc.li/hNaBY) |
-| **V2Box** | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` | [Добавить подписку](https://clc.li/DQNlu) |
+| Клиент | Добавить | Ссылка |
+|--------|----------|--------|
+| **Happ** | [Добавить подписку](https://clc.li/bYaxZ) | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
+| **V2RayTun** | [Добавить подписку](https://clc.li/hNaBY) | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
+| **V2Box** | [Добавить подписку](https://clc.li/DQNlu) | `https://raw.githubusercontent.com/Weoge/WeogeVPN/refs/heads/main/WeogeVPN.txt` |
